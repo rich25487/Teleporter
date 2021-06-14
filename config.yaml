@@ -1,0 +1,35 @@
+baseURL: 
+languageCode: en-us
+title: teleporter
+theme: theme
+
+params:
+  bookmarks:
+    - group: Teleport to Meet   
+      items:
+        - name: Home Room
+          url: https://meet.google.com/lookup/h6eugwqpqt
+        - name: IS
+          url: https://meet.google.com/lookup/goov5v6opb
+        - name: นาฏศิลป์       
+          url: https://meet.google.com/lookup/ccuyi3lifg
+        - name: การเขียน aka ภาษาไทย
+          url: https://meet.google.com/lookup/h2zlbqull6
+        - name: English พื้น
+          url: https://meet.google.com/lookup/bp2etabm7e
+        - name: คณิต พื้น
+          url: https://meet.google.com/lookup/ahftnt5sze
+        - name: วิทยาศาสตร์
+          url: https://meet.google.com/lookup/hoqr2kg3dk
+        - name: คณิต เพิ่ม
+          url: https://meet.google.com/lookup/gvuikwcovx
+        - name: ประวัติ
+          url: https://meet.google.com/lookup/bn2yqkuaaf
+        - name: การงาน
+          url: https://meet.google.com/lookup/crx4jm6wn6
+        - name: การออกแบบ
+          url: https://meet.google.com/lookup/h32dijoafk
+        - name: Amy english
+          url: https://meet.google.com/fpd-vmdt-khv
+        - name: MoMo english
+          url: https://meet.google.com/lookup/a2p737w626
