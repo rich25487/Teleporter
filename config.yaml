@@ -5,7 +5,7 @@ theme: theme
 
 params:
   bookmarks:
-    - group: Teleport to Meet   
+    - group: meet 
       items:
         - name: Home Room
           url: https://meet.google.com/lookup/h6eugwqpqt
@@ -13,7 +13,7 @@ params:
           url: https://meet.google.com/lookup/goov5v6opb
         - name: นาฏศิลป์       
           url: https://meet.google.com/lookup/ccuyi3lifg
-        - name: การเขียน aka ภาษาไทย
+        - name: การเขียน
           url: https://meet.google.com/lookup/h2zlbqull6
         - name: English พื้น
           url: https://meet.google.com/lookup/bp2etabm7e
