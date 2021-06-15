@@ -1,26 +1,16 @@
 baseURL: 
 languageCode: en-us
-title: teleporter
+title: Made With Laziness
 theme: theme
 
 params:
   author: Meetlink
   description: naja
   favicon: /favicon.ico
-
   nav:
-    - name: Gmail
-      icon: fas fa-envelope red
-      url: https://mail.google.com
-
-    - name: Twitter
-      icon: fab fa-twitter aqua
-      url: https://twitter.com
-    
-    - name: Facebook
-      icon: fab fa-facebook blue
-      url: https://facebook.com
-
+    - name: source
+      icon: fab fa-github
+      url: https://github.com/rich25487/Teleporter
 
   bookmarks:
     # - group: meet 
@@ -122,6 +112,11 @@ params:
           url: https://meet.google.com/fpd-vmdt-khv
         - name: English พื้น
           url: https://meet.google.com/lookup/bp2etabm7e
+    - group: 特別
+      items: 
+        - name: thai website
+          url: https://bit.ly/benjamasThai64
+
 
     
 
