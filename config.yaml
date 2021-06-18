@@ -53,7 +53,7 @@ params:
     #       url: https://meet.google.com/lookup/h32dijoafk
 
     #     - name: Amy's english
-    #       url: https://meet.google.com/tmm-xwpv-gpe
+    #       url: https://meet.google.com/khw-nmez-xim 
 
     #     - name: MoMo's english
     #       url: https://meet.google.com/lookup/a2p737w626
@@ -86,7 +86,7 @@ params:
         - name: การเขียน
           url: https://meet.google.com/lookup/h2zlbqull6
         - name: Amy's english
-          url: https://meet.google.com/tmm-xwpv-gpe
+          url: https://meet.google.com/khw-nmez-xim 
         - name: MoMo's english
           url: https://meet.google.com/lookup/a2p737w626
 
@@ -110,7 +110,7 @@ params:
         - name: คณิต พื้น
           url: https://meet.google.com/lookup/ahftnt5sze
         - name: Amy's english
-          url: https://meet.google.com/tmm-xwpv-gpe
+          url: https://meet.google.com/khw-nmez-xim 
         - name: English พื้น
           url: https://meet.google.com/lookup/bp2etabm7e
     - group: 特別
