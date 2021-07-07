@@ -85,8 +85,8 @@ params:
       items:
         - name: การเขียน
           url: https://meet.google.com/lookup/h2zlbqull6
-        - name: Amy's english
-          url: https://meet.google.com/tmm-xwpv-gpe 
+        # - name: Amy's english
+          # url: https://meet.google.com/tmm-xwpv-gpe 
         - name: MoMo's english
           url: https://meet.google.com/lookup/a2p737w626
 
@@ -109,8 +109,8 @@ params:
           url: https://meet.google.com/lookup/ew5cljj7an
         - name: คณิต พื้น
           url: https://meet.google.com/lookup/ahftnt5sze
-        - name: Amy's english
-          url: https://meet.google.com/tmm-xwpv-gpe 
+        # - name: boom
+          # url: https://meet.google.com/tmm-xwpv-gpe 
         - name: English พื้น
           url: https://meet.google.com/lookup/bp2etabm7e
     - group: 特別
