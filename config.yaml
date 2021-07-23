@@ -17,7 +17,7 @@ params:
     # - group: meet 
     #   items:
     #     - name: ภาษาไทย
-    #       url: https://meet.google.com/lookup/ew5cljj7an
+    #       url: https://meet.google.com/pem-vnbn-nyw
 
     #     - name: Home Room
     #       url: https://meet.google.com/lookup/h6eugwqpqt
@@ -77,7 +77,7 @@ params:
         - name: คณิต เพิ่ม
           url: https://meet.google.com/lookup/gvuikwcovx
         - name: ภาษาไทย
-          url: https://meet.google.com/lookup/ew5cljj7an
+          url: https://meet.google.com/pem-vnbn-nyw
         - name: วิทยาศาสตร์
           url: https://meet.google.com/lookup/hoqr2kg3dk
 
@@ -106,7 +106,7 @@ params:
         - name: คณิต เพิ่ม
           url: https://meet.google.com/lookup/gvuikwcovx
         - name: ภาษาไทย
-          url: https://meet.google.com/lookup/ew5cljj7an
+          url: https://meet.google.com/pem-vnbn-nyw
         - name: คณิต พื้น
           url: https://meet.google.com/lookup/ahftnt5sze
         - name: Amy's (unstable)
