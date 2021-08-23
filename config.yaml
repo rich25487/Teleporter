@@ -65,6 +65,8 @@ params:
           url: https://meet.google.com/lookup/hoqr2kg3dk
         - name: คณิต พื้น
           url: https://meet.google.com/lookup/ahftnt5sze
+        - name: English พื้น
+          url: https://meet.google.com/lookup/bp2etabm7e
         - name: ประวัติ
           url: https://meet.google.com/lookup/bn2yqkuaaf
     - group: Tuesday
