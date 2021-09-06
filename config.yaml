@@ -18,8 +18,6 @@ params:
     #   items:
     #     - name: ภาษาไทย
     #       url: https://meet.google.com/hpc-gqtd-udi
-
-
     #     - name: Home Room
     #       url: https://meet.google.com/lookup/h6eugwqpqt
 
@@ -88,7 +86,7 @@ params:
       items:
         - name: การเขียน
           url: https://meet.google.com/lookup/h2zlbqull6
-        - name: Amy's (unstable)
+        - name: Amy's theater
           url: https://meet.google.com/lookup/duowbkoon2
         - name: MoMo's english
           url: https://meet.google.com/lookup/a2p737w626
@@ -112,7 +110,7 @@ params:
           url: https://meet.google.com/hpc-gqtd-udi
         - name: คณิต พื้น
           url: https://meet.google.com/lookup/ahftnt5sze
-        - name: Amy's (unstable)
+        - name: Amy's theater
           url: https://meet.google.com/lookup/duowbkoon2 
         - name: English พื้น
           url: https://meet.google.com/lookup/bp2etabm7e
