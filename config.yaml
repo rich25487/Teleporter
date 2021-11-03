@@ -16,9 +16,20 @@ params:
   bookmarks:
     - group: Monday
       items:
+        - name: อังกฤษพื้น
+          url: https://meet.google.com/lookup/bp2etabm7e
+        - name: คณิตเพิ่ม
+          url: https://meet.google.com/lookup/gvuikwcovx
+
         
     - group: Tuesday
       items:
+        - name: อังกฤษพื้น
+          url: https://meet.google.com/lookup/bp2etabm7e
+        - name: การเขียน
+          url: https://meet.google.com/lookup/h2zlbqull
+        - name: คณิตเพิ่ม
+          url: https://meet.google.com/lookup/gvuikwcovx
        
 
     - group: Wednesday
@@ -35,11 +46,25 @@ params:
 
     - group: Thursday
       items:
+        - name: อังกฤษพื้น
+          url: https://meet.google.com/lookup/bp2etabm7e
+        - name: การเขียน
+          url: https://meet.google.com/lookup/h2zlbqull
+        - name: COM(No link)
+          url: 
+        - name: วิทยาศาสตร์(No link)
+          url: 
         
 
     - group: Friday
-      items:   
-        
+      items: 
+        - name: การงาน
+          url: https://meet.google.com/lookup/crx4jm6wn6
+        - name: คณิตพื้น
+          url: https://meet.google.com/lookup/ahftnt5sze
+        - name: Eng?(No link)
+          url: 
+      
     - group: 特別
       items: 
        
