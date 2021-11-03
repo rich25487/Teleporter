@@ -23,9 +23,14 @@ params:
 
     - group: Wednesday
       items:
-      
         - name: Amy's theater
           url: https://meet.google.com/ypv-mqhv-rjr
+        - name: อังกฤษพื้น
+          url: https://meet.google.com/oej-qxiv-bgn
+        - name: คณิตเพิ่ม
+          url: https://meet.google.com/zum-idks-ghb
+        - name: ศิลปะ
+          url: https://meet.google.com/hfv-mzig-xxr
        
 
     - group: Thursday
