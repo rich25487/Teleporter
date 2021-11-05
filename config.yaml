@@ -59,9 +59,11 @@ params:
         
 
     - group: Friday
-      items: 
+      items:
+        - name: สังคม
+          url: https://meet.google.com/vpg-zewa-acw
         - name: การงาน
-          url: https://meet.google.com/lookup/crx4jm6wn6
+          url: https://meet.google.com/xdx-yntc-pos
         - name: คณิตพื้น
           url: https://meet.google.com/lookup/ahftnt5sze
         - name: Eng?(No link)
