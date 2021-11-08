@@ -16,6 +16,12 @@ params:
   bookmarks:
     - group: Monday
       items:
+        - name: ประวัติศาสตร์
+          url: https://meet.google.com/uyc-zosb-xrj
+        - name: MoMo
+          url: https://meet.google.com/xug-zdfh-rpo
+        - name: เคมี
+          url: https://meet.google.com/zbf-ixqk-yoj
         - name: อังกฤษพื้น
           url: https://meet.google.com/lookup/bp2etabm7e
         - name: คณิตเพิ่ม
