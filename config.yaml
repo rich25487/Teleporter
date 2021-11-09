@@ -30,8 +30,10 @@ params:
         
     - group: Tuesday
       items:
-        - name: อังกฤษพื้น
-          url: https://meet.google.com/lookup/bp2etabm7e
+        - name: คณิตพื้น
+          url: https://meet.google.com/lookup/ahftnt5sze
+        - name: Amy's theater
+          url: https://meet.google.com/ypv-mqhv-rjr
         - name: การเขียน
           url: https://meet.google.com/lookup/h2zlbqull
         - name: คณิตเพิ่ม
