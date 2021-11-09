@@ -26,6 +26,8 @@ params:
           url: https://meet.google.com/lookup/bp2etabm7e
         - name: คณิตเพิ่ม
           url: https://meet.google.com/lookup/gvuikwcovx
+        - name: ภาษาไทย
+          url: https://meet.google.com/wow-jmqd-ayt
 
         
     - group: Tuesday
