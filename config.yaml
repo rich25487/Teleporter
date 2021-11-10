@@ -83,6 +83,10 @@ params:
       
     - group: 特別
       items: 
+        - name: เช็คชื่อ
+          url: https://meet.google.com/lookup/h6eugwqpqt
+        - name: ภาษาไทย
+          url: https://sites.google.com/obec.moe.go.th/benjamas6431102/home
        
 
 
