@@ -64,10 +64,12 @@ params:
           url: https://meet.google.com/edr-oyvd-cqy
         - name: คณิตเพิ่ม
           url: https://meet.google.com/lookup/gvuikwcovx
-        - name: COM(No link)
+        - name: สมศักดิ์
+          url: https://meet.google.com/zbf-ixqk-yoj
+        - name: COM
           url: 
-        - name: วิทยาศาสตร์(No link)
-          url: 
+        - name: วิทยาศาสตร์
+          url: https://meet.google.com/zbf-ixqk-yoj
         
 
     - group: Friday
