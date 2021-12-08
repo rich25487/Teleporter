@@ -26,8 +26,7 @@ params:
           url: https://meet.google.com/lookup/bp2etabm7e
         - name: คณิตเพิ่ม
           url: https://meet.google.com/lookup/gvuikwcovx
-        - name: ภาษาไทย
-          url: https://meet.google.com/wow-jmqd-ayt
+       
 
         
     - group: Tuesday
@@ -42,6 +41,8 @@ params:
           url: https://meet.google.com/edr-oyvd-cqy
         - name: คณิตเพิ่ม
           url: https://meet.google.com/lookup/gvuikwcovx
+        - name: ภาษาไทย
+          url: https://meet.google.com/wow-jmqd-ayt
        
 
     - group: Wednesday
@@ -74,6 +75,8 @@ params:
 
     - group: Friday
       items:
+        - name: ภาษาไทย
+          url: https://meet.google.com/wow-jmqd-ayt
         - name: สังคม
           url: https://meet.google.com/vpg-zewa-acw
         - name: การงาน
