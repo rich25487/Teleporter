@@ -10,7 +10,7 @@ params:
   
   nav:
     - name: source
-      icon: fab fa-github
+      icon: fab fa-github-alt
       url: https://github.com/rich25487/Teleporter
 
   bookmarks:
@@ -84,11 +84,11 @@ params:
         - name: คณิตพื้น
           url: https://meet.google.com/igu-csoi-avx 
       
-    - group: 特別
+    - group: Special case
       items: 
         - name: เช็คชื่อ
           url: https://meet.google.com/lookup/h6eugwqpqt
-        - name: ภาษาไทย
+        - name: Thai website :D
           url: https://sites.google.com/obec.moe.go.th/benjamas6431102/home
        
 
