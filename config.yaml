@@ -23,7 +23,7 @@ params:
         - name: เคมี
           url: https://meet.google.com/zbf-ixqk-yoj
         - name: อังกฤษพื้น
-          url: https://meet.google.com/lookup/bp2etabm7e
+          url: https://meet.google.com/mpp-ykhs-iwo
         - name: คณิตเพิ่ม
           url: https://meet.google.com/lookup/gvuikwcovx
        
@@ -50,7 +50,7 @@ params:
         - name: Amy's theater
           url: https://meet.google.com/ypv-mqhv-rjr
         - name: อังกฤษพื้น
-          url: https://meet.google.com/lookup/bp2etabm7e
+          url: https://meet.google.com/mpp-ykhs-iwo
         - name: คณิตเพิ่ม
           url: https://meet.google.com/lookup/gvuikwcovx
         - name: ศิลปะ
@@ -60,7 +60,7 @@ params:
     - group: Thursday
       items:
         - name: อังกฤษพื้น
-          url: https://meet.google.com/lookup/bp2etabm7e
+          url: https://meet.google.com/mpp-ykhs-iwo
         - name: การเขียน
           url: https://meet.google.com/edr-oyvd-cqy
         - name: คณิตเพิ่ม
