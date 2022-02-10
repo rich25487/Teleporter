@@ -1,5 +1,5 @@
 <script>
-  var timer = setInterval(function() {
+  /*  var timer = setInterval(function() {
     localTimer();
   }, 1000);
 
@@ -17,9 +17,50 @@
 
     var date = today.getDate()+' . '+(today.getMonth()+1)+' . '+today.getFullYear();
     document.getElementById("current_date").innerHTML = date;
-}
-</script>
+}  */
 
+
+var dayname = ["วัน อาทิตย์","วัน จันทร์","วัน อังคาร","วัน พุธ","วัน พฤหัส","วัน ศุกร์","วัน เสาร์"]
+var monthname = ["มกราคม","กุมภาพันธ์","มีนาคม","เมษายน","พฤษภาคม","มิถุนายน",
+"กรกฎาคม","สิงหาคม","กันยายน","ตุลาคม","พฤศจิกายน","ธันวาคม"]
+
+var endtime = [560,610,660,710,760,810,860,910,960,1010];
+
+function getClass(){
+    var rtClock = new Date();
+    var hours = rtClock.getHours();
+    var minutes = rtClock.getMinutes();
+    var day = rtClock.getUTCDay();
+    var seconds = rtClock.getSeconds();
+    var time = (60*hours)+minutes ;
+    var classnumber = 99 ; 
+
+    if(time>=510 && time<560)classnumber=0 
+    else if(time>=560 && time<610)classnumber=1 
+    else if(time>=610 && time<660)classnumber=2 
+    else if(time>=660 && time<710)classnumber=3 
+    else if(time>=710 && time<760)classnumber=4 
+    else if(time>=760 && time<810)classnumber=5 
+    else if(time>=810 && time<860)classnumber=6 
+    else if(time>=860 && time<910)classnumber=7 
+    else if(time>=910 && time<960)classnumber=8 
+
+    var classlist = [
+        [""],
+        ["ประวัติศาสตร์","ภาษาอังกฤษ Teacher","เคมี","เคมี","พักเที่ยง","ภาษาอังกฤษ","คณิตเพิ่มเติม","พละ","ว่าง"],
+        ["คณิตพื้นฐาน","ภาษาอังกฤษ Teacher","สังคม","แนะแนว","พักเที่ยง","การเขียน","คณิตเพิ่มเติม","ภาษาไทย","ว่าง"],
+        ["ภาษาอังกฤษ Teacher","ภาษาอังกฤษ","คณิตเพิ่มเติม","นาฏศิลป์","พักเที่ยง","ว่าง","ว่าง","ว่าง","ว่าง"],
+        ["ภาษาอังกฤษ","การเขียน","คณิตเพิ่มเติม","การงานอาชีพ","พักเที่ยง","คอมพิวเตอร์","คอมพิวเตอร์","เคมี","IS"],
+        ["ภาษาไทย","สังคม","การงานอาชีพ","การงานอาชีพ","พักเที่ยง","คณิตพื้นฐาน","IS","IS","ว่าง"]
+    ] 
+    if (classnumber==99 || (day==0 || day==6)){
+        return "ไม่มีเรียน" ; 
+    }
+    else return classlist[day][classnumber];
+}
+    var classname = getClass()
+    document.getElementById("current_date").innerHTML = "Current class : " + classname;
+</script>
 <!--
 <footer>
 
